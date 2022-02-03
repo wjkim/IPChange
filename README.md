@@ -11,8 +11,11 @@ C#으로 개발되어 .Net Framework 4.0 이상이 설치되어 있어야 합니
 ![main.png](https://i0.wp.com/antihack.kr/wordpress/wp-content/uploads/2022/02/main.png?w=753&ssl=1 "메인화면")
 
 – 설정적용 : 왼쪽 아래에 있는 리스트에서 오른쪽 마우스를 누른 후 설정적용을 선택 또는 오른쪽 아래에 있는 설정적용 버튼을 누르면 적용됩니다.
+
 – 삭제 : 리스트에서 선택된 내용을 삭제 합니다.
+
 – 이름 변경 : 리스트에 저장된 아이템의 이름을 변경합니다.
+
 
 
 ![new.png](https://i0.wp.com/antihack.kr/wordpress/wp-content/uploads/2022/02/save.png?w=753&ssl=1 "추가화면")
@@ -28,4 +31,5 @@ C#으로 개발되어 .Net Framework 4.0 이상이 설치되어 있어야 합니
 ![ipconfig.png](https://i0.wp.com/antihack.kr/wordpress/wp-content/uploads/2022/02/ipconfig.png?w=751&ssl=1 "확인화면")
 
 – IPCONFIG : 현재 설정되어 있는 네트워크 설정값을 보여 줍니다.
+
 – Refresh 버튼을 누르면 현재값을 갱신합니다.
